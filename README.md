@@ -64,7 +64,10 @@ Absolutely amazing! Now when you want pip to install these.
 ---
 
 Git repositories are directed acyclic graphs used to store the state of you project at each node. Simply put it is a 
-version control system that allows you to back up to previous states. 
+version control system that allows you to back up to previous states.
+
+You can handle git repositories through the command line or through your IDE. 
+There are advantages to both, although I personally use my IDE.
 
 To initialize in current working directory:
 
